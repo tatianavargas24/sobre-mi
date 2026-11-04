@@ -32,3 +32,16 @@ Aprender algo nuevo cada día, desarrollar mis habilidades y convertir mis ideas
 ### 💖 Gracias por visitar mi perfil
 
 *Cada línea de código es una oportunidad para aprender algo nuevo.* ✨
+## 🚀 Mis proyectos
+
+Estos son algunos de los proyectos que he realizado durante mi proceso de aprendizaje en Análisis y Desarrollo de Software:
+
+### 🌟 Mis metas
+Repositorio donde comparto mis objetivos académicos, personales y de programación.
+
+🔗 [Ver proyecto](https://github.com/tatianavargas24/mis-metas)
+
+### 🍽️ Mi receta
+Proyecto donde desarrollo y documento una receta utilizando Markdown y Git.
+
+🔗 [Ver proyecto](https://github.com/tatianavargas24/mi-receta)
