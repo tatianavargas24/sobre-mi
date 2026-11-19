@@ -23,6 +23,13 @@ Quiero adquirir las bases y las herramientas necesarias para fortalecer mis cono
 
 Mi objetivo es crecer como estudiante, superar mis límites y construir poco a poco mi camino en el mundo de la tecnología. 🌱
 
+## Lo que aprendí de los conflictos
+
+Al realizar esta actividad aprendí que en Git pueden aparecer conflictos cuando dos personas modifican el mismo archivo de manera diferente. También aprendí que podemos revisar los cambios, comparar las versiones y unirlas para solucionar el conflicto.
+
+Comprendí que trabajar en equipo, escuchar las ideas de los demás y comunicarnos bien es importante para llegar a una solución. Además, practiqué el uso de ramas, commits y merges en Git.
+
+
 
 
 ## 💡 Mi propósito
